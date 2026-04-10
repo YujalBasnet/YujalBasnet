@@ -4,7 +4,7 @@
   <img src="https://streak-stats.demolab.com?user=YujalBasnet&theme=radical" />
 </p>
 
-<p align="center" height="300">
+<p align="center" height="200">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlqdjN5aTdsMTd2bDU0NnRkaTUxYzBoMXV0N3hreDd1YzV1ZG5zYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 </p>
 
