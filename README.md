@@ -26,5 +26,6 @@
   <img width="12" />
 </div>
 
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/YujalBasnet/YujalBasnet/output/github-snake-dark.svg" />
+</p>
