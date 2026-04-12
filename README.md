@@ -38,5 +38,5 @@
   </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YujalBasnet/YujalBasnet/output/github-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/YujalBasnet/YujalBasnet/output/github-snake-dark.svg?v=2" />
 </p>
