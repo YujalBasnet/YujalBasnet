@@ -8,7 +8,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlqdjN5aTdsMTd2bDU0NnRkaTUxYzBoMXV0N3hreDd1YzV1ZG5zYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 </p>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
