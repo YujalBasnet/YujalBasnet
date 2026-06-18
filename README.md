@@ -32,7 +32,7 @@
   </a>
 
   <a href="https://yujalkhulalbasnet.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/My_Portfolio-Live-00C7FF?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-00C7FF?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="portfolio" />
 </a>
 
   <p align="center">
