@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 
-  <a href="[https://my-portfolio-zl5r.onrender.com](https://yujalkhulalbasnet.netlify.app/)" target="_blank">
+  <a href="https://yujalkhulalbasnet.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/My_Portfolio-Live-00C7FF?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="portfolio" />
 </a>
 
