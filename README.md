@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" height="200">
-<img src="[file:///C:/Users/YUJAL/Downloads/tumblr_da375e4060ee24538406e1a358b4899d_0e616ba2_1280.webp](https://64.media.tumblr.com/da375e4060ee24538406e1a358b4899d/687945ec3da655ec-77/s1280x1920/0e616ba21d7b4e38b398245f986d0c8745d8ff3c.gifv)" />
+<img src="‪E:\image\rdr2.gif" />
 </p>
 
 
