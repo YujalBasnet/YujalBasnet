@@ -4,8 +4,8 @@
   <img src="https://streak-stats.demolab.com?user=YujalBasnet&theme=radical"/>
 </p>
 
-<p align="center" height="200">
-<img src="‪E:\image\rdr2.gif" />
+<p align="center">
+<img src="./rdr2.gif" width="450" alt="Red Dead Redemption 2" />
 </p>
 
 
