@@ -27,7 +27,7 @@
 
 <!-- ======================= GIF ======================= -->
 
-<h1 align="center">🔥 Hell Yeah 🔥</h1>
+<hr>
 <p align="center">
   <img
     src="./rdr2.gif"
