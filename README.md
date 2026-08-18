@@ -1,60 +1,192 @@
+<!-- ======================= HEADER ======================= -->
+
+<h1 align="center">
+  👋 Hey, I'm Yujal Basnet
+</h1>
+
+<h3 align="center">
+  💻 Developer • 🚀 Builder • 🌱 Always Learning
+</h3>
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats-mauve-nine-96.vercel.app/api?username=YujalBasnet&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph" /> -->
-   <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=YujalBasnet&theme=dracula"
-  height="170"
-  alt="GitHub Streak"
-/>
+  I enjoy building web applications, experimenting with new technologies,
+  and turning ideas into real-world projects.
 </p>
+
+---
+
+<!-- ======================= GITHUB STATS ======================= -->
+
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-<img src="./rdr2.gif" width="450" alt="Red Dead Redemption 2" />
+  <img
+    src="https://streak-stats.demolab.com/?user=YujalBasnet&theme=dracula&hide_border=false"
+    height="170"
+    alt="GitHub Streak"
+  />
 </p>
 
+---
 
+<!-- ======================= GIF ======================= -->
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-</div>
-<div align="center">
-  <a href="https://www.instagram.com/yujalbasnet/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+<p align="center">
+  <img
+    src="./rdr2.gif"
+    width="450"
+    alt="Red Dead Redemption 2"
+  />
+</p>
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+<h2 align="center">🛠️ Technologies & Tools</h2>
+
+<p align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    height="40"
+    alt="JavaScript"
+  />
+  <img width="15" />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    height="40"
+    alt="React"
+  />
+  <img width="15" />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    height="40"
+    alt="HTML5"
+  />
+  <img width="15" />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    height="40"
+    alt="CSS3"
+  />
+  <img width="15" />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    height="40"
+    alt="Python"
+  />
+  <img width="15" />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+    height="40"
+    alt="C"
+  />
+  <img width="15" />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    height="40"
+    alt="Java"
+  />
+</p>
+
+---
+
+<!-- ======================= CONNECT ======================= -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+  <a href="https://www.instagram.com/yujalbasnet/">
+    <img
+      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="Instagram"
+    />
   </a>
 
-  <a href="https://yujalkhulalbasnet.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-00C7FF?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="portfolio" />
-</a>
-
-  <p align="center">
-  <a href="mailto:laxmikhulalbasnet@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="https://yujalkhulalbasnet.netlify.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit_Now-00C7FF?style=for-the-badge&logo=google-chrome&logoColor=white"
+      height="35"
+      alt="Portfolio"
+    />
   </a>
-  </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/YujalBasnet/YujalBasnet/output/github-snake-dark.svg?v=2" />
+  <a href="mailto:laxmikhulalbasnet@gmail.com">
+    <img
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="Gmail"
+    />
+  </a>
+
 </p>
 
+---
 
+<!-- ======================= PROJECTS ======================= -->
 
-To View - Wheather_Check_Website = https://wheather-checkk.onrender.com/
+<h2 align="center">🚀 Live Projects</h2>
 
+<p align="center">
 
-To View - Hostel_Finder_Website = https://hostel-finder-production-4f8e.up.railway.app
+  🌦️ <b>Weather Check</b><br>
+  A simple weather application for checking current weather information.
+  <br>
+  <a href="https://wheather-checkk.onrender.com/">
+    🔗 View Website
+  </a>
 
+</p>
 
-PortFolio = [yujalkhulalbasnet.netlify.app](https://yujalkhulalbasnet.netlify.app/)
+<p align="center">
+
+  🏠 <b>Hostel Finder</b><br>
+  A web application designed to help users find available hostels.
+  <br>
+  <a href="https://hostel-finder-production-4f8e.up.railway.app">
+    🔗 View Website
+  </a>
+
+</p>
+
+<p align="center">
+
+  💼 <b>Portfolio</b><br>
+  My personal portfolio showcasing my projects, skills, and experience.
+  <br>
+  <a href="https://yujalkhulalbasnet.netlify.app/">
+    🔗 Visit Portfolio
+  </a>
+
+</p>
+
+---
+
+<!-- ======================= GITHUB SNAKE ======================= -->
+
+<h2 align="center">🐍 My Contributions</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/YujalBasnet/YujalBasnet/output/github-snake-dark.svg?v=2"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+<h3 align="center">
+  ⭐ Thanks for visiting my profile!
+</h3>
+
+<p align="center">
+  Feel free to explore my repositories and check out my projects.
+</p>
