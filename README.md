@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://streak-stats.demolab.com?user=YujalBasnet&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=YujalBasnet&cache_seconds=0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&timezone=Asia/Kathmandu" height="170" alt="streak graph" />
 </p>
 
 <p align="center">
