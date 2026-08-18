@@ -26,7 +26,7 @@
 </p>
 
 <!-- ======================= GIF ======================= -->
-<hr>
+
 <h2 align="center">🔥 Hell Yeah 🔥</h2>
 <p align="center">
   <img
