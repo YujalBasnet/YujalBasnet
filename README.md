@@ -13,11 +13,7 @@
   and turning ideas into real-world projects.
 </p>
 
----
-
 <!-- ======================= GITHUB STATS ======================= -->
-
-
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
@@ -29,8 +25,6 @@
   />
 </p>
 
----
-
 <!-- ======================= GIF ======================= -->
 
 <p align="center">
@@ -40,8 +34,6 @@
     alt="Red Dead Redemption 2"
   />
 </p>
-
----
 
 <!-- ======================= TECH STACK ======================= -->
 
@@ -126,8 +118,6 @@
 
 </p>
 
----
-
 <!-- ======================= GITHUB SNAKE ======================= -->
 
 <h2 align="center">🐍 My Contributions</h2>
@@ -139,7 +129,6 @@
   />
 </p>
 
----
 
 <h3 align="center">
   ⭐ Thanks for visiting my profile!
