@@ -1,7 +1,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats-mauve-nine-96.vercel.app/api?username=YujalBasnet&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=YujalBasnet&cache_seconds=0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&timezone=Asia/Kathmandu" height="170" alt="streak graph" />
+   <img
+    src="https://streak-stats.demolab.com?user=YujalBasnet&cache_seconds=0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&timezone=Asia/Kathmandu"
+    height="170"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
