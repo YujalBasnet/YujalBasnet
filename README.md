@@ -17,11 +17,13 @@
 
 <!-- ======================= GITHUB STATS ======================= -->
 
+
+
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=YujalBasnet&theme=dracula&hide_border=false"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=YujalBasnet&theme=dracula&hide_border=false"
     height="170"
     alt="GitHub Streak"
   />
