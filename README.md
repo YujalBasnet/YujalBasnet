@@ -1,5 +1,3 @@
-<!-- ======================= HEADER ======================= -->
-
 <h1 align="center">
   👋 Hey, I'm Yujal Basnet
 </h1>
