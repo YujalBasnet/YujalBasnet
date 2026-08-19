@@ -72,8 +72,6 @@
 
 </p>
 
-<!-- ======================= PROJECTS ======================= -->
-
 <h2 align="center">🚀 Live Projects</h2>
 
 <p align="center">
