@@ -30,8 +30,6 @@
   />
 </p>
 
-<!-- ======================= TECH STACK ======================= -->
-
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
 <p align="center">
