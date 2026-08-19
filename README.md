@@ -11,8 +11,6 @@
   and turning ideas into real-world projects.
 </p>
 
-<!-- ======================= GITHUB STATS ======================= -->
-
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
