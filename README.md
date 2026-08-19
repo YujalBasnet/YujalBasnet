@@ -42,8 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </p>
 
-<!-- ======================= CONNECT ======================= -->
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
