@@ -107,8 +107,6 @@
 
 </p>
 
-<!-- ======================= GITHUB SNAKE ======================= -->
-
 <h2 align="center">🐍 My Contributions</h2>
 
 <p align="center">
